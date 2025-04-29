@@ -1,0 +1,12 @@
+{
+  "name": "script-one",
+  "version": "20.19.0",
+  "description": "my scipt",
+  "license": "ISC",
+  "author": "askdsk",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
